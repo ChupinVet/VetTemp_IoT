@@ -7,19 +7,19 @@
 **Turma:** 2TDSA
 
 **Nome:** Ana Claudia Fernandes Martins  
-**RM:** 561190 
+**RM:** 561190  
 **Turma:** 2TDSR
 
 **Nome:** Anabelle Rosseto Rodrigues  
-**RM:** 564526 
+**RM:** 564526  
 **Turma:** 2TDSR
 
 **Nome:** Samantha Faruolo Galdi  
-**RM:** 554794 
+**RM:** 554794  
 **Turma:** 2TDSA
 
 **Nome:** Vitor Fria Dalmagro  
-**RM:** 566052 
+**RM:** 566052  
 **Turma:** 2TDSA
 
 ---
