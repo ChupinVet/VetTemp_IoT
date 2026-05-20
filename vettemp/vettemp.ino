@@ -26,7 +26,7 @@ WebServer server(80);
 // LIMITES
 // =========================
 #define TEMP_FRIO 18.0
-#define TEMP_QUENTE 29.0
+#define TEMP_QUENTE 23.0
 
 LiquidCrystal_I2C lcd(0x27, 16, 2);
 DHTesp dhtSensor;
