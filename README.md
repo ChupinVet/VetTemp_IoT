@@ -95,6 +95,7 @@ VETTEMP_IOT
 ├── .gitignore
 ├── image.png
 └── README.md
+```
 
 ## Resultados Parciais
 
