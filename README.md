@@ -10,10 +10,6 @@
 **RM:** 561190  
 **Turma:** 2TDSR
 
-**Nome:** Anabelle Rosseto Rodrigues  
-**RM:** 564526  
-**Turma:** 2TDSR
-
 **Nome:** Samantha Faruolo Galdi  
 **RM:** 554794  
 **Turma:** 2TDSA
