@@ -109,12 +109,21 @@ VETTEMP_IOT
     - integrar hardware e software em um sistema IoT funcional
 
 - Tela inicial
+
 ![alt text](image-1.png)
+
 - Temperatura da Sala dos Pets
+
 ![alt text](image-2.png)
+
 - Temperatura externa (SP)
+
 ![alt text](image-3.png)
+
 - Led Azul (Frio)
+
 ![alt text](image-4.png)
+
 - Led Vermelho (Calor)
+
 ![alt text](image-5.png)
