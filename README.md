@@ -68,6 +68,13 @@ O circuito do projeto é o seguinte:
     - Quando a temperatura está acima de 29 C° o led vermelho pisca
     - Quando a temperatura está abaixo de 18 C° o led azul pisca
 
+4. API Rest
+- A API do ESP32 disponibiliza os dados de temperatura e umidade em formato JSON.
+- Após iniciar o projeto no Wokwi, a API poderá ser acessada em:
+```text
+http://localhost:8281/api/status
+```
+
 ## Tecnologias Utilizadas
 
 - C++
