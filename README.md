@@ -66,7 +66,7 @@ O circuito do projeto é o seguinte:
 - O botão muda entre a tela de temperatura da sala e entre a temperatura externa (SP)
 - **Sobre os leds:**
     - Quando a temperatura está acima de 29 C° o led vermelho pisca
-    - Quando a temperatura está abaixo de 18 C° o led azul pisca
+    - Quando a temperatura está abaixo de 19 C° o led azul pisca
 
 4. API Rest
 - A API do ESP32 disponibiliza os dados de temperatura e umidade em formato JSON.
